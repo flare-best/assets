@@ -1,4 +1,4 @@
-# Flare.best Assets
+# Flare Assets
 
 Welcome to the official assets repository for [flare.best](https://flare.best)! This is your one-stop resource for logos, icons, and banners related to Flare.
 
